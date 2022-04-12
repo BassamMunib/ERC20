@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+    "erc20",
+    "erc20-proxy",
+    "erc20-tests"
+]
+
+[profile.release]
+codegen-units = 1
+lto = true

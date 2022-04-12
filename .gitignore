@@ -1,0 +1,4 @@
+target
+erc20-tests/wasm/*.wasm
+node_modules
+Cargo.lock
